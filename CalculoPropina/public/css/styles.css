@@ -1,0 +1,55 @@
+/* Titulo de Calculadora*/
+.Calculadora
+{
+ font-family:monospace;
+}
+/* Monto a pagar y Porcentaje de propina */
+label
+{
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Subtitulo de la propina */
+
+h1
+{
+  color: #0F2C59 ;
+  font-style: italic;
+  font-weight: bold;
+  font-family: 'Tahoma', Geneva, Verdana;
+}
+
+h2
+{
+ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ color: #22668D;
+}
+
+#propina
+{
+    font-family:sans-serif;
+    color: #0e415e;
+}
+
+#montoTotal
+{
+    font-family:sans-serif;
+    color: #0e415e;
+    
+}
+
+#Regla3simple:hover{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #FFFADD; 
+    color: #FFCC70;
+    font-weight: bold;
+}
+
+body
+{
+ width: 200px;
+ width: 200px;
+ background-color:#8ECDDD;
+ color:#22668D;
+ 
+}
